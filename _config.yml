@@ -16,7 +16,7 @@ timezone: America/Toronto
 
 title: "Kodzo Wozufia" # the main title
 
-tagline: "A blog where I  share my discoveries, thoughts and projects around Cloud, DevOps, Automation, Cybersecurity... and beyond."  # it will display as the sub-title
+tagline: "A blog where I share my discoveries, thoughts, projects around Cloud, DevOps, Automation, Cybersecurity... and beyond."  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Kodzo Wozufia's personal blog.
