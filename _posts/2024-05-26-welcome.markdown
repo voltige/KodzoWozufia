@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome"
+categories: general
+---
+Welcome to my project site!
+
+Some nice articles will be published soon. 
+
+See you soon.

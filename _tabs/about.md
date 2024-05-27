@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 6
 ---
 
-Hi, I'm Kodzo Wozufia. Welcome to my personal website,
-where I mostly blog about things I'm interested in.
+Hi, 
+
+I'm Kodzo Wozufia, welcome to my personal website.
+
+I blog about things I'm interested in, mostly Cloud, DevOps, Automation and Cybersecurity.  
